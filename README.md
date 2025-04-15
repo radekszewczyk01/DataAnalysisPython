@@ -14,3 +14,42 @@ For the data itself, I relied on the World Bank's open data, which offers a rich
 
 By combining these tools with insights from Factfulness, my goal was to better understand how the world has changed over time—not just in theory, but through concrete numbers.
 
+---
+
+### How to use
+
+## ✅ Requirements
+
+- Python 3.8 or higher
+- `pip` (Python package installer)
+
+## 🚀 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/radekszewczyk01/DataAnalysisPython.git
+   cd DataAnalysisPython
+   ```
+
+2. **(Optional) Create and activate a virtual environment:**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Linux/macOS
+   venv\Scripts\activate     # On Windows
+   ```
+
+3. **Install required packages:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 🧪 Running the Project
+
+- To launch Jupyter Notebook:
+
+  ```bash
+  jupyter notebook
+  ```
